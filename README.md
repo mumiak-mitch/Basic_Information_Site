@@ -21,12 +21,19 @@ To run the project locally, follow these steps:
 The project directory structure is as follows:
 
 Basic_Information_Site/
+
 │
+
 ├── index.html
+
 ├── about.html
+
 ├── contact-me.html
+
 ├── 404.html
+
 ├── index.js
+
 └── README.md
 
 - `index.html`: Home page of the website.
